@@ -178,5 +178,12 @@ This project is open-source and available under the MIT License.
 Data Scientist and ML Engineer
 
 ---
+---
+
+##  Application Screenshot
+
+![Home Page](https://raw.githubusercontent.com/hassan-ali786/news-classifier/main/images/homepage.png)
+
+---
 
  If you like this project, consider giving it a star on GitHub!
