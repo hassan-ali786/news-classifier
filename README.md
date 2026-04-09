@@ -43,6 +43,8 @@ News_Classifier/
 │   ├── preprocessing.py
 │   ├── train_model.py
 │   └── predict.py
+├── images/
+│   └── homepage.png
 ├── app.py
 ├── requirements.txt
 └── run.bat
