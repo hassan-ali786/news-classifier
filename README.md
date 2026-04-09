@@ -92,7 +92,7 @@ data/news.csv
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 ### Option 1: One-click run (Recommended)
 
