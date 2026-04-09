@@ -74,7 +74,7 @@ The model combines `title` and `description` into a single text feature for trai
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/news-classifier.git
+git clone https://github.com/hassan-ali786/news-classifier.git
 cd news-classifier
 ```
 
