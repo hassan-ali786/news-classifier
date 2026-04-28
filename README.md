@@ -114,7 +114,7 @@ streamlit run app.py
 
 ---
 
-## 🧠 Model Details
+##  Model Details
 
 * **Algorithm:** Multinomial Naive Bayes
 * **Vectorizer:** TF-IDF (max_features=5000)
