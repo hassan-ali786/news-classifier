@@ -32,7 +32,7 @@ Built with **Scikit-learn** and deployed using **Streamlit**, this project demon
 ##  Project Structure
 
 ```
-news-classifier/
+News_Classifier/
 │
 ├── data/
 │   └── news.csv
@@ -46,8 +46,7 @@ news-classifier/
 ├── images/
 │   └── homepage.png
 ├── app.py
-├── requirements.txt
-└── run.bat
+└── requirements.txt
 ```
 
 ---
@@ -94,13 +93,7 @@ data/news.csv
 
 ##  Run the Application
 
-### Option 1: One-click run (Recommended)
-
-```
-run.bat
-```
-
-### Option 2: Manual run
+### Manual run
 
 ```
 python -m venv venv
@@ -114,7 +107,7 @@ streamlit run app.py
 
 ---
 
-##  Model Details
+## 🧠 Model Details
 
 * **Algorithm:** Multinomial Naive Bayes
 * **Vectorizer:** TF-IDF (max_features=5000)
@@ -175,10 +168,9 @@ This project is open-source and available under the MIT License.
 ##  Author
 
 **Hassan Ali**
+Data Scientist and ML Engineer
 
-Data Scientist & ML Engineer
 
----
 ---
 
 ##  Application Screenshot
