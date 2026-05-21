@@ -32,7 +32,8 @@ Built with **Scikit-learn** and deployed using **Streamlit**, this project demon
 ##  Project Structure
 
 ```
-News_Classifier/
+
+news-classifier/
 │
 ├── data/
 │   └── news.csv
