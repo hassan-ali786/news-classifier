@@ -6,6 +6,12 @@ Built with **Scikit-learn** and deployed using **Streamlit**, this project demon
 
 ---
 
+##  Video Demo:
+
+https://github.com/user-attachments/assets/fdf4cae2-3692-4f87-80bb-97245d393ebc
+
+---
+
 ##  Features
 
 *  Real-world dataset (AG News)
