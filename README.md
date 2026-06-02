@@ -6,6 +6,10 @@ Built with **Scikit-learn** and deployed using **Streamlit**, this project demon
 
 ---
 
+## Live Demo:
+
+https://news-classifier-gllhtp5tvw9ydgpwhprt4j.streamlit.app/
+
 ##  Video Demo:
 
 https://github.com/user-attachments/assets/fdf4cae2-3692-4f87-80bb-97245d393ebc
