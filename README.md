@@ -8,7 +8,9 @@ Built with **Scikit-learn** and deployed using **Streamlit**, this project demon
 
 ## Live Demo:
 
-https://news-classifier-gllhtp5tvw9ydgpwhprt4j.streamlit.app/
+[Click here to view the Live Demo](https://news-classifier-gllhtp5tvw9ydgpwhprt4j.streamlit.app/)
+
+---
 
 ##  Video Demo:
 
