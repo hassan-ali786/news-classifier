@@ -186,12 +186,6 @@ Data Scientist & ML Engineer
 
 ---
 
-##  Application Screenshot
-
-![Home Page](https://raw.githubusercontent.com/hassan-ali786/news-classifier/main/images/homepage.png)
-
----
-
 ## Application Interface
 
 1. Enter the news article text or description into the input field.
