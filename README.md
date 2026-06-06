@@ -129,14 +129,13 @@ streamlit run app.py
 
 ---
 
-##  Application UI
+## Application Interface
 
-* Enter any news article
-* Click **"Classify News"**
-* Get:
+1. Enter the news article text or description into the input field.
+2. Click the **Classify News** button.
+3. The system displays the **Predicted Category** along with the **Confidence Score**.
 
-  * Predicted Category
-  * Confidence Score
+![Application Screenshot](images/homepage.png)
 
 ---
 
@@ -185,13 +184,5 @@ Data Scientist & ML Engineer
 
 
 ---
-
-## Application Interface
-
-1. Enter the news article text or description into the input field.
-2. Click the **Classify News** button.
-3. The system displays the **Predicted Category** along with the **Confidence Score**.
-
-![Application Screenshot](images/homepage.png)
 
  If you like this project, consider giving it a star on GitHub!
